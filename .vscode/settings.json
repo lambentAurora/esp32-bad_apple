@@ -1,0 +1,34 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "D:/Espressif/frameworks/esp-idf-v5.4.1/",
+  "idf.pythonInstallPath": "D:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.portWin": "COM4",
+  "idf.toolsPathWin": "D:\\Espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "files.associations": {
+    "sdkconfig.h": "c",
+    "led_strip.h": "c",
+    "complex": "c",
+    "format": "c",
+    "limits": "c",
+    "functional": "c",
+    "i2c.h": "c",
+    "oled.h": "c",
+    "esp_log.h": "c",
+    "freertos.h": "c",
+    "font.h": "c",
+    "bitset": "c",
+    "chrono": "c",
+    "regex": "c",
+    "tuple": "c",
+    "cstdio": "c",
+    "cstdlib": "c",
+    "cwchar": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
