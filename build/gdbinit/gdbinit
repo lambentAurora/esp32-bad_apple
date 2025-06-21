@@ -1,0 +1,2 @@
+source D:/Microcontroller/esp32/build/gdbinit/symbols
+source D:/Microcontroller/esp32/build/gdbinit/connect
